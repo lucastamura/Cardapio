@@ -1,0 +1,47 @@
+@import url(./styles/reset.css);
+@import url(./styles/font.css);
+@import url(./styles/containers.css);
+
+
+
+.img-home {
+  width: 100%;
+}
+
+.img-massa{
+  max-width: 510px;
+  width: 100%;
+}
+
+.cardapio-guioza{
+  background-color: #EAB299;
+}
+
+.title, .info{
+  display: flex;
+}
+
+.title{
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info{
+  gap: 8px;
+}
+
+#guiozas{
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+#footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  margin-top: 50px;
+  background-color: #FEDCA2;
+  padding: 60px;
+}

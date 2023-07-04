@@ -1,0 +1,39 @@
+h1 {
+    color: #343434;
+    text-align: center;
+    font-size: 32px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+label {
+    color: #343434;
+    text-align: center;
+    font-size: 16px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+}
+
+p {
+    color: #343434;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+a {
+    color: #343434;
+
+    text-align: center;
+    
+}

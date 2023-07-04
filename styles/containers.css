@@ -1,0 +1,25 @@
+body {
+    background: #fdeccf;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 622px;
+}
+
+.container-carda {
+    padding: 46px 53px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
