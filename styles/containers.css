@@ -7,11 +7,11 @@ body {
 }
 
 .container {
-    width: 722px;
+    width: 622px;
 }
 
 .container-carda {
-    padding: 46px 53px;
+    padding: 46px 24px;
     display: flex;
     flex-direction: column;
     gap: 40px;
